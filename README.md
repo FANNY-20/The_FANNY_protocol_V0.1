@@ -1,5 +1,5 @@
 # The_FANNY_protocol_V0.1
-a Fully ANoNYmous and decentralized pandemic witness protocol (FANNY)
+Fully ANoNYmous and decentralized pandemic witness protocol (FANNY)
 
 # Context
 
