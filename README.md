@@ -48,4 +48,4 @@ https://github.com/FANNY-20/The_FANNY_protocol_V0.1/blob/master/Fully_decentrali
 
  contact@vib.solutions
  
-# Every comment, help, contribution, participation, fork, note ... is welcome provided it helps move forward and is volunteer!
+# Every comment, help, contribution, participation, fork, note ... in condition to be constructive, well meaning and kindly!
