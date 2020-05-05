@@ -6,7 +6,7 @@ Fully ANoNYmous and decentralized pandemic witness protocol (FANNY)
 
 In this pandemic context, many approaches try to propose the best compromise between anonymity and privacy, reliability, accessibility and efficiency. We think that this kind of situation could unfortunately repeat itself in the future regarding the epidemics that were observed the last two decades.
 
-The technology could help to minimize the propagation and impact of this disease and to facilitate living in this kind of context.
+The technology could help to minimize the propagation and impact of diseases and to facilitate living in this kind of context.
 
 # What we propose :
 
