@@ -1,15 +1,16 @@
 # The FANNY Protocol 0.1
+
 Fully ANoNYmous and decentralized pandemic witness protocol (FANNY)
 
 # Context
 
-In this pandemic context many approach try to propose the best compromise between anonymity and privacy, reliability, accessibility and efficiency. We think that this kind of situation could unfortunately be more frequent in the future regarding the epidemic that we observed the last two decades.
+In this pandemic context, many approaches try to propose the best compromise between anonymity and privacy, reliability, accessibility and efficiency. We think that this kind of situation could unfortunately repeat itself in the future regarding the epidemics that were observed the last two decades.
 
-The technology could help to minimize the impact and to facilitate living in this kind sustainable context.
+The technology could help to minimize the propagation and impact of this disease and to facilitate living in this kind of context.
 
 # What we propose :
 
-Our  protocol allows to alert who was in a narrow contact with a positive covid-19 patient until 15 days after. This protocol focused on a maximum of decentralization,  processing distribution and information division regarding this below objectives :
+Our protocol allows to alert who was in a narrow contact with a positive covid-19 patient up to 15 days after the first contact occurred. This protocol focuses on a maximum of decentralization, processing distribution and information division with an absolute focus on:
 
 1. Anonymity 
 2. Privacy
@@ -19,30 +20,32 @@ Our  protocol allows to alert who was in a narrow contact with a positive covid-
 6. Availability
 7. Transparency
 
-We thought about a solution of course should be improved but it's probably an interesting alternative.
+We have figured out a solution that of course should be improved but it seems like an
+interesting alternative.
 
---> This alternative is on an X11 license and each contribution is welcome. The source codebase is coming.
+--&gt; This alternative is on an X11 license and each contribution is welcome. The
+source codebase is coming.
 
-- It's main originality is the using of a Web RTC API to establish the peer to peer communication. 
+- The main originality is the usage of a Web RTC API to establish the peer to peer communication.
 - We tried to maximize the distribution of the tasks and data storage in order to decentralize the approach. 
-- The last issue that we try to solve is the anonymity with creating Data very poor on information's, divide, distributed and decentralised. The data must be recombine to extract a usable information.
+- The last challenge we tried to solve focuses on the anonymity while creating very light &amp; poor data, divided, distributed and decentralized. The data must be recombined to extract a usable information.
 
-You can read the pdf document that explain what we propose.
+You can read the pdf document that explain what we propose here :
 https://github.com/FANNY-20/The_FANNY_protocol_V0.1/blob/master/Fully_decentralised_and_anonymous_covid_witness_protocolv0.1.pdf
 
-# In this repository you will find:
+# In this repository, you will find:
 
 - An article that explain the basic version of our protocol.
-- An MIT X11 license.
-- And coming soon the code-base of our prototype
+- An MIT X11 licence.
+- And coming soon the code-base of our prototype.
 
-# This initiative powered by two french startups :
+# This initiative is powered by two French startups:
 
 - Vib (Virtuous Internet Browsing) specialized on Edge Computing and decentralized architectures on local data processing and storage (http://www.vib.solutions/vibPrincipe.html).
 - SoyHuce specialized on operational research and development (https://www.soyhuce.fr).
 
-# Contact us at :
+# Contact us at:
 
  contact@vib.solutions
  
-# Every comment, help, contribution, participation, fork, note ... is welcome in condition of being benevolent and constructive !
+# Every comment, help, contribution, participation, fork, note ... is welcome provided it helps move forward and is volunteer!
