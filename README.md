@@ -1,6 +1,8 @@
 # The_FANNY_protocol_V0.1
 a Fully ANoNYmous and decentralized pandemic witness protocol (FANNY)
 
+# Context
+
 In this pandemic context many approach try to propose the best compromise between anonymity and privacy, reliability, accessibility and efficiency. We think that this kind of situation could unfortunately be more frequent in the future regarding the epidemic that we observed the last two decades.
 
 The technology could help to minimize the impact and to facilitate living in this kind sustainable context.
