@@ -7,7 +7,7 @@ The technology could help to minimize the impact and to facilitate living in thi
 
 We thought about a solution of course should be improved but it's probably an interesting alternative.
 
-This alternative is on an X11 license and each contribution is welcome. The source codebase is coming.
+--> This alternative is on an X11 license and each contribution is welcome. The source codebase is coming.
 
 - It's main originality is the using of a Web RTC API to establish the peer to peer communication. 
 - We tried to maximize the distribution of the tasks and data storage in order to decentralize the approach. 
