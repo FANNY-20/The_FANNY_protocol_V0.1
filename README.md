@@ -1,4 +1,4 @@
-# The FANNY Protocol
+# The FANNY Protocol 0.1
 Fully ANoNYmous and decentralized pandemic witness protocol (FANNY)
 
 # Context
