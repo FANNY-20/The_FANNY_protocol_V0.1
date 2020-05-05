@@ -15,7 +15,9 @@ Our  protocol allows to alert who was in a narrow contact with a positive covid-
 2. Privacy
 3. Accessibility
 4. Reliability
-5. Availability
+5. Scalability
+6. Availability
+7. Transparency
 
 We thought about a solution of course should be improved but it's probably an interesting alternative.
 
