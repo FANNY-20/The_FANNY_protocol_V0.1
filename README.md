@@ -5,6 +5,16 @@ In this pandemic context many approach try to propose the best compromise betwee
 
 The technology could help to minimize the impact and to facilitate living in this kind sustainable context.
 
+# What we propose :
+
+Our  protocol allows to alert who was in a narrow contact with a positive covid-19 patient until 15 days after. This protocol focused on a maximum of decentralization,  processing distribution and information division regarding this below objectives :
+
+1. Anonymity 
+2. Privacy
+3. Accessibility
+4. Reliability
+5. Availability
+
 We thought about a solution of course should be improved but it's probably an interesting alternative.
 
 --> This alternative is on an X11 license and each contribution is welcome. The source codebase is coming.
@@ -15,3 +25,20 @@ We thought about a solution of course should be improved but it's probably an in
 
 You can read the pdf document that explain what we propose.
 https://github.com/FANNY-20/The_FANNY_protocol_V0.1/blob/master/Fully_decentralised_and_anonymous_covid_witness_protocolv0.1.pdf
+
+# In this repository you will find:
+
+- An article that explain the basic version of our protocol.
+- An MIT X11 license.
+- And coming soon the code-base of our prototype
+
+# This initiative powered by two french startups :
+
+Vib (Virtuous Internet Browsing) specialized on Edge Computing and local data storage and processing .
+SoyHuce specialized on operational research and development.
+
+# Contact us at :
+
+ contact@vib.solutions
+ 
+# Every comment, help, contribution, participation, fork, note ... is welcome in condition of being benevolent and constructive !
