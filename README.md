@@ -41,7 +41,7 @@ https://github.com/FANNY-20/The_FANNY_protocol_V0.1/blob/master/Fully_decentrali
 
 # This initiative is powered by two French startups:
 
-- Vib (Virtuous Internet Browsing) specialized on Edge Computing and decentralized architectures on local data processing and storage (http://www.vib.solutions/vibPrincipe.html).
+- Vib (Virtuous Internet Browsing) specialized on Edge Computing and decentralized architectures on local data processing and storage (http://www.vib.solutions/vibPrincipe.html or https://vib.solutions/sign-up).
 - SoyHuce specialized on operational research and development (https://www.soyhuce.fr).
 
 # Contact us at:
