@@ -31,7 +31,7 @@ source codebase is coming.
 - The last challenge we tried to solve focuses on the anonymity while creating very light &amp; poor data, divided, distributed and decentralized. The data must be recombined to extract a usable information.
 
 You can read the pdf document that explain what we propose here :
-https://github.com/FANNY-20/The_FANNY_protocol_V0.1/blob/master/Fully_decentralised_and_anonymous_covid_witness_protocolv0.1.pdf
+https://github.com/FANNY-20/The_FANNY_protocol_V0.1/blob/master/Fully_decentralised_and_anonymous_covid_witness_protocolv0.2.pdf
 
 # In this repository, you will find:
 
