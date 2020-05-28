@@ -33,6 +33,8 @@ source codebase has been released under the same organization namespace (https:/
 You can read the pdf document that explain what we propose here :
 https://github.com/FANNY-20/The_FANNY_protocol_V0.1/blob/master/Fully_decentralised_and_anonymous_covid_witness_protocolv0.2.pdf
 
+Pedagogique explanations movie (frenche) : https://youtu.be/TFXguic_X3A
+
 ## In this repository, you will find:
 
 - An article explaining the basic version of our protocol.
